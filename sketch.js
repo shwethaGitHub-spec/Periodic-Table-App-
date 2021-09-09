@@ -9,7 +9,7 @@ var EEBInfo
 
 function preload(){
  bg = loadImage("IMGS/bgImg.jpg")
- loadData=loadJSON("periodicTableJSON.json")
+ loadData=loadJSON("PeriodicTableJSON.json")
  
 }
 
